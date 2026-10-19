@@ -1,0 +1,3 @@
+# Python Dependencies for Clinical Abbreviation Pipeline
+# The internal tooling (_tools/) utilizes Python 3.8+ standard libraries.
+# No external third-party packages are required.

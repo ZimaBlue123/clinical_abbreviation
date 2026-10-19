@@ -1,0 +1,1602 @@
+[
+  {
+    "abbreviation": "AC",
+    "full_form": "Anal Cancer",
+    "chinese": "肛门癌"
+  },
+  {
+    "abbreviation": "AC",
+    "full_form": "Before Meals",
+    "chinese": "餐前"
+  },
+  {
+    "abbreviation": "Ab",
+    "full_form": "Antibody",
+    "chinese": "抗体"
+  },
+  {
+    "abbreviation": "MVR",
+    "full_form": "Monitor Visit Report",
+    "chinese": "监查报告"
+  },
+  {
+    "abbreviation": "CRF",
+    "full_form": "Case Report Form",
+    "chinese": "病历报告表"
+  },
+  {
+    "abbreviation": "WI",
+    "full_form": "Work Instruction",
+    "chinese": "工作指南"
+  },
+  {
+    "abbreviation": "ADE",
+    "full_form": "Antibody-Dependent Enhancement",
+    "chinese": "抗体依赖增强效应"
+  },
+  {
+    "abbreviation": "PEP",
+    "full_form": "Post-Exposure Prophylaxis",
+    "chinese": "暴露后预防性用药"
+  },
+  {
+    "abbreviation": "NDA",
+    "full_form": "New Drug Application",
+    "chinese": "新药申请"
+  },
+  {
+    "abbreviation": "MRI",
+    "full_form": "Magnetic Resonance Imaging",
+    "chinese": "核磁共振成像"
+  },
+  {
+    "abbreviation": "MA",
+    "full_form": "Marketing Approval/Authorization",
+    "chinese": "上市许可证"
+  },
+  {
+    "abbreviation": "VE",
+    "full_form": "Vaccine Efficacy",
+    "chinese": "疫苗效力"
+  },
+  {
+    "abbreviation": "BID",
+    "full_form": "Both In Day Two Times A Day",
+    "chinese": "每日两次"
+  },
+  {
+    "abbreviation": "SLE",
+    "full_form": "Systemic Lupus Erythematosus",
+    "chinese": "系统性红斑狼疮"
+  },
+  {
+    "abbreviation": "PI",
+    "full_form": "Project Instruction",
+    "chinese": "项目说明"
+  },
+  {
+    "abbreviation": "FTE",
+    "full_form": "Full Time Equivalent",
+    "chinese": "全工时"
+  },
+  {
+    "abbreviation": "CRC",
+    "full_form": "Clinical Research Coordinator",
+    "chinese": "临床研究协调者"
+  },
+  {
+    "abbreviation": "SCR",
+    "full_form": "Seroconversion Rate",
+    "chinese": "血清阳转率"
+  },
+  {
+    "abbreviation": "EU",
+    "full_form": "European Union",
+    "chinese": "欧盟"
+  },
+  {
+    "abbreviation": "AD",
+    "full_form": "Alzheimers Disease",
+    "chinese": "阿尔茨海默氏症"
+  },
+  {
+    "abbreviation": "MOH",
+    "full_form": "Ministry Of Health",
+    "chinese": "卫生部"
+  },
+  {
+    "abbreviation": "VLP",
+    "full_form": "Virus-Like Particles",
+    "chinese": "病毒样颗粒"
+  },
+  {
+    "abbreviation": "EPI",
+    "full_form": "Expanded Program on Immunization",
+    "chinese": "扩大免疫规划"
+  },
+  {
+    "abbreviation": "MCV",
+    "full_form": "Mean Corpuscular Volume",
+    "chinese": "平均红细胞体积"
+  },
+  {
+    "abbreviation": "FDA",
+    "full_form": "Food And Drug Administration",
+    "chinese": "美国食品药品管理局"
+  },
+  {
+    "abbreviation": "QA",
+    "full_form": "Quality Assurance",
+    "chinese": "质量保证"
+  },
+  {
+    "abbreviation": "AMI",
+    "full_form": "Acute Myocardial Infarction",
+    "chinese": "急性心肌梗塞"
+  },
+  {
+    "abbreviation": "IUD",
+    "full_form": "Intrauterine Device",
+    "chinese": "宫内节育器"
+  },
+  {
+    "abbreviation": "IT",
+    "full_form": "Information Technology",
+    "chinese": "信息技术"
+  },
+  {
+    "abbreviation": "eCRF",
+    "full_form": "Electronic Case Report Form",
+    "chinese": "电子病历报告表"
+  },
+  {
+    "abbreviation": "CHF",
+    "full_form": "Congestive Heart Failure",
+    "chinese": "充血性心力衰竭"
+  },
+  {
+    "abbreviation": "CTE",
+    "full_form": "Clinical Trial Exemption",
+    "chinese": "临床实验豁免"
+  },
+  {
+    "abbreviation": "MedDRA",
+    "full_form": "The Medical Dictionary For Regulatory Activities Ich",
+    "chinese": "国际医学用语词典"
+  },
+  {
+    "abbreviation": "QD",
+    "full_form": "Once Daily",
+    "chinese": "每日一次"
+  },
+  {
+    "abbreviation": "PI",
+    "full_form": "Principal Investigator",
+    "chinese": "主要研究者"
+  },
+  {
+    "abbreviation": "PE",
+    "full_form": "Physical Examination Or Pulmonary Embolus",
+    "chinese": "体格检查或肺动脉血栓"
+  },
+  {
+    "abbreviation": "MSM",
+    "full_form": "Men Having Sex With Men",
+    "chinese": "男男性行为者"
+  },
+  {
+    "abbreviation": "WNL",
+    "full_form": "Within Normal Limits",
+    "chinese": "正常范围内"
+  },
+  {
+    "abbreviation": "ADE",
+    "full_form": "Adverse Drug Event",
+    "chinese": "药物不良事件"
+  },
+  {
+    "abbreviation": "OD",
+    "full_form": "Optical Density",
+    "chinese": "光密度"
+  },
+  {
+    "abbreviation": "BS",
+    "full_form": "Biostatistics",
+    "chinese": "生物统计学"
+  },
+  {
+    "abbreviation": "PP",
+    "full_form": "Project Plan",
+    "chinese": "项目计划"
+  },
+  {
+    "abbreviation": "QA",
+    "full_form": "Quality Assurance",
+    "chinese": "质量管理"
+  },
+  {
+    "abbreviation": "GST",
+    "full_form": "Glutathione S-transferase",
+    "chinese": "谷胱甘肽-S-转移酶"
+  },
+  {
+    "abbreviation": "CTS",
+    "full_form": "Clinical Trial Supplies",
+    "chinese": "临床试验用品"
+  },
+  {
+    "abbreviation": "FR",
+    "full_form": "Final Report",
+    "chinese": "总结报告"
+  },
+  {
+    "abbreviation": "Hct",
+    "full_form": "Hematocrit",
+    "chinese": "红细胞压积"
+  },
+  {
+    "abbreviation": "CSA",
+    "full_form": "Clinical Services Agreement",
+    "chinese": "临床服务协议"
+  },
+  {
+    "abbreviation": "SCJ",
+    "full_form": "squamous-column junction",
+    "chinese": "鳞柱交界"
+  },
+  {
+    "abbreviation": "WHO",
+    "full_form": "World Health Organization",
+    "chinese": "世界卫生组织"
+  },
+  {
+    "abbreviation": "COA",
+    "full_form": "Certificate Of Analysis",
+    "chinese": "药检报告"
+  },
+  {
+    "abbreviation": "CBC",
+    "full_form": "Complete Blood Count",
+    "chinese": "全血细胞计数"
+  },
+  {
+    "abbreviation": "EC",
+    "full_form": "Ethics Committee",
+    "chinese": "伦理委员会"
+  },
+  {
+    "abbreviation": "WBC",
+    "full_form": "White Blood Count",
+    "chinese": "白细胞计数"
+  },
+  {
+    "abbreviation": "CDA",
+    "full_form": "Confidentiality Disclosure Agreement",
+    "chinese": "保密协议"
+  },
+  {
+    "abbreviation": "CFDI",
+    "full_form": "Center for Food and Drug Inspection of NMPA",
+    "chinese": "食品药品审核查验中心"
+  },
+  {
+    "abbreviation": "ICSR",
+    "full_form": "Individual Case Security Report",
+    "chinese": "个例安全性报告"
+  },
+  {
+    "abbreviation": "BSA",
+    "full_form": "Body Surface Area",
+    "chinese": "体表面积"
+  },
+  {
+    "abbreviation": "DDI",
+    "full_form": "Drug-Drug Interaction",
+    "chinese": "药物相互作用"
+  },
+  {
+    "abbreviation": "EEC",
+    "full_form": "endo/ectocervical",
+    "chinese": "内外宫颈"
+  },
+  {
+    "abbreviation": "LAN",
+    "full_form": "Local Area Network",
+    "chinese": "局域网"
+  },
+  {
+    "abbreviation": "BUN",
+    "full_form": "Blood Urea Nitrogen",
+    "chinese": "血尿素氮"
+  },
+  {
+    "abbreviation": "AEFI",
+    "full_form": "Adverse Events Following Immunization",
+    "chinese": "预防接种后异常反应"
+  },
+  {
+    "abbreviation": "ICF",
+    "full_form": "Informed Consent Form Also See IC",
+    "chinese": "知情同意书"
+  },
+  {
+    "abbreviation": "PD",
+    "full_form": "Pharmacodynamics",
+    "chinese": "药效学"
+  },
+  {
+    "abbreviation": "RFP",
+    "full_form": "Request For Proposal",
+    "chinese": "服务方案需求"
+  },
+  {
+    "abbreviation": "CAD",
+    "full_form": "Coronary Artery Disease",
+    "chinese": "冠状动脉疾病"
+  },
+  {
+    "abbreviation": "TMF",
+    "full_form": "Trial Master File",
+    "chinese": "临床试验文档、临床研究总文件夹"
+  },
+  {
+    "abbreviation": "CRO",
+    "full_form": "Contract Research Organization",
+    "chinese": "合同研究组织"
+  },
+  {
+    "abbreviation": "EGL",
+    "full_form": "External Genital Lesion",
+    "chinese": "外部生殖器病变"
+  },
+  {
+    "abbreviation": "DSMB",
+    "full_form": "Data Safety And Monitoring Board",
+    "chinese": "数据安全及监控委员会"
+  },
+  {
+    "abbreviation": "GCP",
+    "full_form": "Good Clinical Practice",
+    "chinese": "药物临床试验质量管理规范"
+  },
+  {
+    "abbreviation": "IDB",
+    "full_form": "Investigational Drug Brochure",
+    "chinese": "试验药物手册"
+  },
+  {
+    "abbreviation": "AESI",
+    "full_form": "Adverse Events of Special Interest",
+    "chinese": "特别关注不良事件"
+  },
+  {
+    "abbreviation": "QC",
+    "full_form": "Quality Control",
+    "chinese": "质量控制"
+  },
+  {
+    "abbreviation": "ARDS",
+    "full_form": "Adult Respiratory Distress Syndrome",
+    "chinese": "成人呼吸窘迫综合征"
+  },
+  {
+    "abbreviation": "OTC",
+    "full_form": "Overthecounter",
+    "chinese": "非处方药"
+  },
+  {
+    "abbreviation": "SSR-Log",
+    "full_form": "",
+    "chinese": "研究者授权表"
+  },
+  {
+    "abbreviation": "GMI",
+    "full_form": "Geometric Mean Increase",
+    "chinese": "几何平均增长倍数"
+  },
+  {
+    "abbreviation": "NMPA",
+    "full_form": "National Medical Products Administration",
+    "chinese": "国家药品监督管理局"
+  },
+  {
+    "abbreviation": "GMP",
+    "full_form": "Good Manufacturing Practice",
+    "chinese": "药品生产质量管理规范"
+  },
+  {
+    "abbreviation": "SDV",
+    "full_form": "Source Data Verification",
+    "chinese": "原始资料核对"
+  },
+  {
+    "abbreviation": "CV",
+    "full_form": "Curriculum Vitae",
+    "chinese": "履历"
+  },
+  {
+    "abbreviation": "SOC",
+    "full_form": "System Organ Class",
+    "chinese": "系统器官分类"
+  },
+  {
+    "abbreviation": "BMR",
+    "full_form": "Basal Metabolic Rate",
+    "chinese": "基础新陈代谢率"
+  },
+  {
+    "abbreviation": "AE",
+    "full_form": "Adverse Event",
+    "chinese": "不良事件"
+  },
+  {
+    "abbreviation": "SSU",
+    "full_form": "Study Start Up",
+    "chinese": "项目启动"
+  },
+  {
+    "abbreviation": "PIN",
+    "full_form": "Personal Identification Number",
+    "chinese": "个人确认密码"
+  },
+  {
+    "abbreviation": "SOP",
+    "full_form": "Standard Operating Procedure",
+    "chinese": "标准操作规程"
+  },
+  {
+    "abbreviation": "IVR/IVRS",
+    "full_form": "Interactive Voice Responseinteractive Voice Response System Or Interactive Voice Response Ivr Services Division",
+    "chinese": "交互式语音应答交互式语音应答系统交互式语音应答系统服务部门"
+  },
+  {
+    "abbreviation": "CSA",
+    "full_form": "Clinical Study Application",
+    "chinese": "临床研究申请"
+  },
+  {
+    "abbreviation": "TFL",
+    "full_form": "Table, Figure, Listing",
+    "chinese": "表、图、清单"
+  },
+  {
+    "abbreviation": "GFR",
+    "full_form": "Glomerular Filtration Rate",
+    "chinese": "肾小球过滤率"
+  },
+  {
+    "abbreviation": "ESR",
+    "full_form": "Expedited Safety Report",
+    "chinese": "加速安全报告"
+  },
+  {
+    "abbreviation": "WHO DRUG",
+    "full_form": "The Who Drug Dictionary",
+    "chinese": "世界卫生组织药物词典"
+  },
+  {
+    "abbreviation": "IMP",
+    "full_form": "Investigational Medicinal Product",
+    "chinese": "临床试验药品"
+  },
+  {
+    "abbreviation": "ICH-GCP",
+    "full_form": "International Conference On Harmonisation Tripartite Guideline On Good Clinical Practice",
+    "chinese": "国际协调会议药品临床试验质量管理规范指南"
+  },
+  {
+    "abbreviation": "QOD",
+    "full_form": "Every Other Day",
+    "chinese": "每隔一天"
+  },
+  {
+    "abbreviation": "DSUR",
+    "full_form": "Development Safety Update Report",
+    "chinese": "安全性进展报告"
+  },
+  {
+    "abbreviation": "IB",
+    "full_form": "Investigator Brochure",
+    "chinese": "研究者手册"
+  },
+  {
+    "abbreviation": "BD",
+    "full_form": "Business Development",
+    "chinese": "业务拓展"
+  },
+  {
+    "abbreviation": "EOS",
+    "full_form": "End Of Study",
+    "chinese": "研究结束"
+  },
+  {
+    "abbreviation": "SI",
+    "full_form": "Sponsor-Investigator",
+    "chinese": "申办研究者"
+  },
+  {
+    "abbreviation": "SAR",
+    "full_form": "Statistical Analysis Report",
+    "chinese": "统计分析报告"
+  },
+  {
+    "abbreviation": "VCT",
+    "full_form": "HIV voluntary counseling & testing",
+    "chinese": "艾滋病自愿咨询检测"
+  },
+  {
+    "abbreviation": "DSMB",
+    "full_form": "Data And Safety Monitoring Board",
+    "chinese": "数据及安全监督委员会"
+  },
+  {
+    "abbreviation": "PhV",
+    "full_form": "Pharmacovigilance",
+    "chinese": "药物警戒"
+  },
+  {
+    "abbreviation": "CT",
+    "full_form": "Computed Tomography",
+    "chinese": "计算机断层扫描"
+  },
+  {
+    "abbreviation": "HR",
+    "full_form": "Human Resources",
+    "chinese": "人力资源"
+  },
+  {
+    "abbreviation": "UAE",
+    "full_form": "Unexpected Adverse Event",
+    "chinese": "非预期不良事件"
+  },
+  {
+    "abbreviation": "MS",
+    "full_form": "Multiple Sclerosis",
+    "chinese": "多发性硬化症"
+  },
+  {
+    "abbreviation": "FUL",
+    "full_form": "Follow Up Letter",
+    "chinese": "随访信"
+  },
+  {
+    "abbreviation": "QoL",
+    "full_form": "Quality Of Life",
+    "chinese": "生活质量"
+  },
+  {
+    "abbreviation": "PRN",
+    "full_form": "pro re nata",
+    "chinese": "根据需要，必要时（拉丁语）"
+  },
+  {
+    "abbreviation": "CEC",
+    "full_form": "Clinical Event Committee",
+    "chinese": "临床事件委员会"
+  },
+  {
+    "abbreviation": "QID",
+    "full_form": "Quarter In Day Four Times A Day",
+    "chinese": "每日四次"
+  },
+  {
+    "abbreviation": "SS",
+    "full_form": "Safety Set",
+    "chinese": "安全性分析数据集"
+  },
+  {
+    "abbreviation": "ONC",
+    "full_form": "Oncology",
+    "chinese": "肿瘤学"
+  },
+  {
+    "abbreviation": "CTP",
+    "full_form": "Clinical Trial Protocol",
+    "chinese": "临床试验方案"
+  },
+  {
+    "abbreviation": "Hb",
+    "full_form": "Hemoglobin",
+    "chinese": "血红蛋白"
+  },
+  {
+    "abbreviation": "CM",
+    "full_form": "Clinical Monitoring Operations",
+    "chinese": "临床监查运营"
+  },
+  {
+    "abbreviation": "IRB",
+    "full_form": "Institutional Review Board",
+    "chinese": "机构审查委员会"
+  },
+  {
+    "abbreviation": "LOCF",
+    "full_form": "Last Observation Carried Forward",
+    "chinese": "向后结转填充"
+  },
+  {
+    "abbreviation": "SIF",
+    "full_form": "Site Information Form",
+    "chinese": "中心信息表"
+  },
+  {
+    "abbreviation": "PTT",
+    "full_form": "Partial Thromboplastin Time",
+    "chinese": "部分促凝血酶原时间"
+  },
+  {
+    "abbreviation": "SC",
+    "full_form": "Study Coordinator",
+    "chinese": "研究协调员"
+  },
+  {
+    "abbreviation": "AD",
+    "full_form": "Antidepressant",
+    "chinese": "抗抑郁药"
+  },
+  {
+    "abbreviation": "IRAEs",
+    "full_form": "Immediately Reportable Adverse Events",
+    "chinese": "立即上报的不良事件"
+  },
+  {
+    "abbreviation": "HTML",
+    "full_form": "Hypertext Markup Language",
+    "chinese": "超文本标记语言"
+  },
+  {
+    "abbreviation": "PD/PV",
+    "full_form": "Protocol Deviation/Protocol Violation",
+    "chinese": "方案偏离/方案违背"
+  },
+  {
+    "abbreviation": "ADR",
+    "full_form": "Adverse Drug Reaction",
+    "chinese": "药物不良反应"
+  },
+  {
+    "abbreviation": "CA",
+    "full_form": "Carcinoma",
+    "chinese": "癌症"
+  },
+  {
+    "abbreviation": "CK or CPK",
+    "full_form": "Serum Creatine Kinase Or Creatine Phosphokinase",
+    "chinese": "血清肌酸激酶或肌酸磷酸激酶"
+  },
+  {
+    "abbreviation": "CTA",
+    "full_form": "Clinical Trial Agreement",
+    "chinese": "临床试验协议"
+  },
+  {
+    "abbreviation": "CRA",
+    "full_form": "Clinical Research Associate Equivalent To Clinical Study Monitor",
+    "chinese": "临床监查员"
+  },
+  {
+    "abbreviation": "CRA",
+    "full_form": "Clinical Research Associate",
+    "chinese": "临床监查员"
+  },
+  {
+    "abbreviation": "GMT",
+    "full_form": "Geometric Mean Titer",
+    "chinese": "几何平均滴度"
+  },
+  {
+    "abbreviation": "AR",
+    "full_form": "Adverse Reaction, Also Known As Adr(Adverse Drug Reaction)",
+    "chinese": "药物不良反应"
+  },
+  {
+    "abbreviation": "FDA",
+    "full_form": "Food And Drug Administration",
+    "chinese": "美国食品与药品管理局"
+  },
+  {
+    "abbreviation": "DICOM",
+    "full_form": "Digital Image Communication In Medicine",
+    "chinese": "医学数字图像通信"
+  },
+  {
+    "abbreviation": "FM",
+    "full_form": "Approved Standard Form",
+    "chinese": "批准的标准表格"
+  },
+  {
+    "abbreviation": "HPV",
+    "full_form": "Human Papilloma Virus",
+    "chinese": "人乳头状瘤病毒"
+  },
+  {
+    "abbreviation": "ICD",
+    "full_form": "International Classification Of Diseases",
+    "chinese": "国际疾病分类"
+  },
+  {
+    "abbreviation": "IDMC",
+    "full_form": "Independent Data Monitoring Committee",
+    "chinese": "独立数据监查委员会"
+  },
+  {
+    "abbreviation": "SSL",
+    "full_form": "Subject Screening Log",
+    "chinese": "受试者筛选表"
+  },
+  {
+    "abbreviation": "ICH",
+    "full_form": "International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use",
+    "chinese": "人用药物注册技术国际协调会议"
+  },
+  {
+    "abbreviation": "CDP",
+    "full_form": "Clinical Development Plan",
+    "chinese": "临床开发计划"
+  },
+  {
+    "abbreviation": "HGRAC",
+    "full_form": "Human Genetic Resource Administrationof China",
+    "chinese": "人类遗传资源管理"
+  },
+  {
+    "abbreviation": "DMP",
+    "full_form": "Data Management Plan",
+    "chinese": "数据管理计划书"
+  },
+  {
+    "abbreviation": "CNS",
+    "full_form": "Central Nervous System",
+    "chinese": "中枢神经系统"
+  },
+  {
+    "abbreviation": "ISF",
+    "full_form": "Investigator Site File",
+    "chinese": "研究者文件夹"
+  },
+  {
+    "abbreviation": "SDV",
+    "full_form": "Source Data Verification",
+    "chinese": "原始数据核查"
+  },
+  {
+    "abbreviation": "PT",
+    "full_form": "Prothrombin Time",
+    "chinese": "凝血酶原时间"
+  },
+  {
+    "abbreviation": "IDM",
+    "full_form": "Independent Data Monitoring",
+    "chinese": "独立数据监查"
+  },
+  {
+    "abbreviation": "COI",
+    "full_form": "Cut off Index",
+    "chinese": "截断值"
+  },
+  {
+    "abbreviation": "IVA",
+    "full_form": "Intraepithelial Vaginal Atypia",
+    "chinese": "阴道上皮内异型性"
+  },
+  {
+    "abbreviation": "CBF",
+    "full_form": "Cerebral Blood Flow",
+    "chinese": "脑血流量"
+  },
+  {
+    "abbreviation": "CRF",
+    "full_form": "Case Report Form Or Case Record Form",
+    "chinese": "病例报告表"
+  },
+  {
+    "abbreviation": "CSR",
+    "full_form": "Clinical Study Report",
+    "chinese": "临床研究报告"
+  },
+  {
+    "abbreviation": "SD",
+    "full_form": "Subject Diary",
+    "chinese": "受试者日记"
+  },
+  {
+    "abbreviation": "EDC",
+    "full_form": "Electronic Data Capture",
+    "chinese": "电子数据采集"
+  },
+  {
+    "abbreviation": "CA",
+    "full_form": "Condyloma Acuminata",
+    "chinese": "尖锐湿疣"
+  },
+  {
+    "abbreviation": "SOW",
+    "full_form": "Scope Of Work",
+    "chinese": "工作范围"
+  },
+  {
+    "abbreviation": "SFDA",
+    "full_form": "State Food And Drug Administration",
+    "chinese": "国家食品药品监督管理局"
+  },
+  {
+    "abbreviation": "MP",
+    "full_form": "Monitoring Plan",
+    "chinese": "监查计划书"
+  },
+  {
+    "abbreviation": "DCRF",
+    "full_form": "Data Clarification And Resolution Form See Dcf",
+    "chinese": "数据澄清和解决表"
+  },
+  {
+    "abbreviation": "CCI",
+    "full_form": "CRF Completion Instructions",
+    "chinese": "CRF填写说明"
+  },
+  {
+    "abbreviation": "IV",
+    "full_form": "Intravenous",
+    "chinese": "静脉注射"
+  },
+  {
+    "abbreviation": "IEC",
+    "full_form": "Independent Ethics Committee",
+    "chinese": "独立伦理委员会"
+  },
+  {
+    "abbreviation": "SE",
+    "full_form": "Standard Error",
+    "chinese": "标准误差"
+  },
+  {
+    "abbreviation": "Hgb",
+    "full_form": "Hemoglobin",
+    "chinese": "血红蛋白"
+  },
+  {
+    "abbreviation": "PET",
+    "full_form": "Positron Emission Topography",
+    "chinese": "正电子发射型断层仪"
+  },
+  {
+    "abbreviation": "ASCC",
+    "full_form": "anal squamous cell carcinoma",
+    "chinese": "肛门鳞状细胞癌"
+  },
+  {
+    "abbreviation": "CDC",
+    "full_form": "Center For Disease Control",
+    "chinese": "疾病控制中心"
+  },
+  {
+    "abbreviation": "PCR",
+    "full_form": "Polymerase Chain Reaction",
+    "chinese": "聚合酶链反应"
+  },
+  {
+    "abbreviation": "AI",
+    "full_form": "Assistant Investigator",
+    "chinese": "助理研究者"
+  },
+  {
+    "abbreviation": "HR (ECG Monitoring)",
+    "full_form": "Heart Rate",
+    "chinese": "心率"
+  },
+  {
+    "abbreviation": "CD",
+    "full_form": "Controlled Documents",
+    "chinese": "控制文件"
+  },
+  {
+    "abbreviation": "CI",
+    "full_form": "Co-Investigator",
+    "chinese": "合作研究者"
+  },
+  {
+    "abbreviation": "AIS",
+    "full_form": "Adenocarcinoma In-Situ",
+    "chinese": "原位腺癌"
+  },
+  {
+    "abbreviation": "LLT",
+    "full_form": "Lowest Level Term",
+    "chinese": "最低级别术语"
+  },
+  {
+    "abbreviation": "TBD",
+    "full_form": "To Be Determined",
+    "chinese": "待定"
+  },
+  {
+    "abbreviation": "SC or SQ",
+    "full_form": "Subcutaneous",
+    "chinese": "皮下的"
+  },
+  {
+    "abbreviation": "NA",
+    "full_form": "Not Applicable",
+    "chinese": "不适用"
+  },
+  {
+    "abbreviation": "CTA",
+    "full_form": "Clinical Trial Assistant",
+    "chinese": "临床研究助理"
+  },
+  {
+    "abbreviation": "PR",
+    "full_form": "Patient Recruitment",
+    "chinese": "患者招募"
+  },
+  {
+    "abbreviation": "CTU",
+    "full_form": "Consent To Use",
+    "chinese": "使用许可"
+  },
+  {
+    "abbreviation": "GPV",
+    "full_form": "Global Pharmacovigilance",
+    "chinese": "全球药物警戒"
+  },
+  {
+    "abbreviation": "NCS",
+    "full_form": "Not Clinically Significant",
+    "chinese": "无临床意义"
+  },
+  {
+    "abbreviation": "DCF",
+    "full_form": "Data Clarification Form",
+    "chinese": "数据澄清表"
+  },
+  {
+    "abbreviation": "DIA",
+    "full_form": "Drug Information Association",
+    "chinese": "药品信息协会"
+  },
+  {
+    "abbreviation": "ISR",
+    "full_form": "",
+    "chinese": "试验样品再分析（生物样品）"
+  },
+  {
+    "abbreviation": "PK",
+    "full_form": "Pharmacokinetics",
+    "chinese": "药物代谢动力学"
+  },
+  {
+    "abbreviation": "AnTZ",
+    "full_form": "anal transformation zone",
+    "chinese": "肛门转化区"
+  },
+  {
+    "abbreviation": "CRO",
+    "full_form": "Contract Research Organization",
+    "chinese": "合同研究组织"
+  },
+  {
+    "abbreviation": "HIV",
+    "full_form": "Human Immunodeficiency Virus",
+    "chinese": "人类免疫缺陷性病毒"
+  },
+  {
+    "abbreviation": "NILM",
+    "full_form": "Negative for intraepithelial lesion or malignancy",
+    "chinese": "上皮内病变或恶性肿瘤阴性"
+  },
+  {
+    "abbreviation": "PMS",
+    "full_form": "Postmarketing Surveillance",
+    "chinese": "上市后药物检测"
+  },
+  {
+    "abbreviation": "UK",
+    "full_form": "Unknown",
+    "chinese": "未知"
+  },
+  {
+    "abbreviation": "DS",
+    "full_form": "Data Source",
+    "chinese": "数据源"
+  },
+  {
+    "abbreviation": "PSUR",
+    "full_form": "Periodic Safety Update Report",
+    "chinese": "定期安全性更新报告"
+  },
+  {
+    "abbreviation": "SD",
+    "full_form": "Source Data",
+    "chinese": "原始数据"
+  },
+  {
+    "abbreviation": "CRC",
+    "full_form": "Clinical Research Coordinator",
+    "chinese": "临床研究协调员"
+  },
+  {
+    "abbreviation": "NCE",
+    "full_form": "New Chemical Entity",
+    "chinese": "新化学实体"
+  },
+  {
+    "abbreviation": "SCV",
+    "full_form": "Site Closeout Visit",
+    "chinese": "中心关闭访视"
+  },
+  {
+    "abbreviation": "Sub-I",
+    "full_form": "Sub-Investigator",
+    "chinese": "助理研究者"
+  },
+  {
+    "abbreviation": "BMI",
+    "full_form": "Body Mass Index",
+    "chinese": "体重指数"
+  },
+  {
+    "abbreviation": "HE",
+    "full_form": "Health Economics",
+    "chinese": "卫生经济学"
+  },
+  {
+    "abbreviation": "SI",
+    "full_form": "Sub-Investigator",
+    "chinese": "助理研究者"
+  },
+  {
+    "abbreviation": "AST",
+    "full_form": "Aspartate Aminotransferasesgot",
+    "chinese": "谷草转氨酶或称"
+  },
+  {
+    "abbreviation": "RBC",
+    "full_form": "Red Blood Count",
+    "chinese": "红细胞计数"
+  },
+  {
+    "abbreviation": "TID",
+    "full_form": "Third In Day Three Times A Day",
+    "chinese": "每日三次"
+  },
+  {
+    "abbreviation": "PT",
+    "full_form": "Preferred Term",
+    "chinese": "首选术语"
+  },
+  {
+    "abbreviation": "OP",
+    "full_form": "Operating Procedure",
+    "chinese": "操作规程"
+  },
+  {
+    "abbreviation": "SIV",
+    "full_form": "Site Initiation Visit",
+    "chinese": "中心启动访视"
+  },
+  {
+    "abbreviation": "NA",
+    "full_form": "Not Available",
+    "chinese": "不可用"
+  },
+  {
+    "abbreviation": "CEC",
+    "full_form": "Central Ethics Committee",
+    "chinese": "中心伦理委员会"
+  },
+  {
+    "abbreviation": "JRA",
+    "full_form": "Juvenile Rheumatoid Arthritis",
+    "chinese": "幼年型类风湿性关节炎"
+  },
+  {
+    "abbreviation": "IP",
+    "full_form": "Investigational Product",
+    "chinese": "研究用产品"
+  },
+  {
+    "abbreviation": "IgG",
+    "full_form": "Immunoglobulin G",
+    "chinese": "免疫球蛋白G"
+  },
+  {
+    "abbreviation": "SQV",
+    "full_form": "Site Qualification Visit",
+    "chinese": "中心资格筛选访视"
+  },
+  {
+    "abbreviation": "DM",
+    "full_form": "Data Management",
+    "chinese": "数据管理"
+  },
+  {
+    "abbreviation": "GRP",
+    "full_form": "Good Research Practice",
+    "chinese": "科学研发质量管理规范"
+  },
+  {
+    "abbreviation": "SMO",
+    "full_form": "Site Management Organization",
+    "chinese": "中心管理组织"
+  },
+  {
+    "abbreviation": "HTN",
+    "full_form": "Hypertension",
+    "chinese": "高血压"
+  },
+  {
+    "abbreviation": "LVPP",
+    "full_form": "Labial/Vulvar/Perineal and Perianal",
+    "chinese": "阴唇/外阴/会阴及肛周"
+  },
+  {
+    "abbreviation": "CI",
+    "full_form": "Confidence Interval",
+    "chinese": "可信区间"
+  },
+  {
+    "abbreviation": "ND",
+    "full_form": "Not Done",
+    "chinese": "未做"
+  },
+  {
+    "abbreviation": "BMI",
+    "full_form": "Body Mass Index",
+    "chinese": "体质指数"
+  },
+  {
+    "abbreviation": "IDE",
+    "full_form": "Investigational Device Exemption Us Fda",
+    "chinese": "研究用器械"
+  },
+  {
+    "abbreviation": "DLP",
+    "full_form": "Data Lock Point",
+    "chinese": "数据锁定点"
+  },
+  {
+    "abbreviation": "SVQ",
+    "full_form": "Site Validation Questionnaire",
+    "chinese": "中心调查问卷"
+  },
+  {
+    "abbreviation": "SAE",
+    "full_form": "Serious Adverse Event",
+    "chinese": "严重不良事件"
+  },
+  {
+    "abbreviation": "IC",
+    "full_form": "Informed Consent",
+    "chinese": "知情同意"
+  },
+  {
+    "abbreviation": "SDR",
+    "full_form": "Source Data Review",
+    "chinese": "原始数据复审"
+  },
+  {
+    "abbreviation": "GU",
+    "full_form": "Genitourinary",
+    "chinese": "泌尿生殖系统"
+  },
+  {
+    "abbreviation": "R&D",
+    "full_form": "Research And Development",
+    "chinese": "药物研究与开发"
+  },
+  {
+    "abbreviation": "GI",
+    "full_form": "Gastrointestinal",
+    "chinese": "胃肠道"
+  },
+  {
+    "abbreviation": "SIC",
+    "full_form": "Subject Identification Code",
+    "chinese": "受试者识别代码"
+  },
+  {
+    "abbreviation": "BP",
+    "full_form": "Blood Pressure",
+    "chinese": "血压"
+  },
+  {
+    "abbreviation": "ISIF",
+    "full_form": "Investigative Site Information Form",
+    "chinese": "研究中心信息表"
+  },
+  {
+    "abbreviation": "MTA",
+    "full_form": "Material Transfer Agreement",
+    "chinese": "材料转移协议（生物样本）"
+  },
+  {
+    "abbreviation": "DBA",
+    "full_form": "Database Activation",
+    "chinese": "数据库上线、激活"
+  },
+  {
+    "abbreviation": "SD",
+    "full_form": "Source Data/Document",
+    "chinese": "原始数据/ 文件"
+  },
+  {
+    "abbreviation": "UADR",
+    "full_form": "Unexpected Adverse Drug Reaction",
+    "chinese": "非预期药物不良反应"
+  },
+  {
+    "abbreviation": "PPS",
+    "full_form": "Per-Protocol Set",
+    "chinese": "符合方案数据集"
+  },
+  {
+    "abbreviation": "GSP",
+    "full_form": "Good Statistical Practice",
+    "chinese": "统计质量管理规范"
+  },
+  {
+    "abbreviation": "WHO-ART",
+    "full_form": "World Health Organizations Adverse Event Dictionary",
+    "chinese": "世界卫生组织不良反应词典"
+  },
+  {
+    "abbreviation": "BPM",
+    "full_form": "Beats Per Minute",
+    "chinese": "每分钟心跳次数"
+  },
+  {
+    "abbreviation": "LOA",
+    "full_form": "Letter Of Authorization",
+    "chinese": "授权书"
+  },
+  {
+    "abbreviation": "LM",
+    "full_form": "Line Manager",
+    "chinese": "直线经理"
+  },
+  {
+    "abbreviation": "ECG",
+    "full_form": "Electrocardiogram",
+    "chinese": "心电图"
+  },
+  {
+    "abbreviation": "INF",
+    "full_form": "Infectious Disease",
+    "chinese": "传染病"
+  },
+  {
+    "abbreviation": "CIN",
+    "full_form": "Cervical Intraepithelial Neoplasia",
+    "chinese": "子宫颈上皮内瘤变"
+  },
+  {
+    "abbreviation": "MSA",
+    "full_form": "Master Services Agreement",
+    "chinese": "主服务协议"
+  },
+  {
+    "abbreviation": "AIN",
+    "full_form": "Anal Intraepithelial Neoplasia",
+    "chinese": "肛门上皮内瘤变"
+  },
+  {
+    "abbreviation": "IND",
+    "full_form": "Investigational New Drug (FDA)",
+    "chinese": "研究性新药临床试验/研究申请"
+  },
+  {
+    "abbreviation": "CHD",
+    "full_form": "Coronary Heart Disease",
+    "chinese": "冠心病"
+  },
+  {
+    "abbreviation": "CTCAE",
+    "full_form": "Common Terminology Criteria For Adverse Events",
+    "chinese": "常见不良反应事件评价标准"
+  },
+  {
+    "abbreviation": "IVD",
+    "full_form": "In Vitro Diagnostic Products",
+    "chinese": "医疗器械、体外诊断试剂以及药品"
+  },
+  {
+    "abbreviation": "GLP",
+    "full_form": "Good Laboratory Practice",
+    "chinese": "药品试验室管理规范"
+  },
+  {
+    "abbreviation": "CTA",
+    "full_form": "Clinical Trial Application",
+    "chinese": "临床试验申请"
+  },
+  {
+    "abbreviation": "ECI",
+    "full_form": "Event Of Clinical Interest",
+    "chinese": "临床关注事件"
+  },
+  {
+    "abbreviation": "IAF",
+    "full_form": "Informed Assent Form",
+    "chinese": "知情告知书"
+  },
+  {
+    "abbreviation": "RA",
+    "full_form": "Regulatory Affairs",
+    "chinese": "法规事务"
+  },
+  {
+    "abbreviation": "ECC",
+    "full_form": "endocervical curettage",
+    "chinese": "宫颈管搔刮"
+  },
+  {
+    "abbreviation": "TCT",
+    "full_form": "Thinprep Cytologic Test",
+    "chinese": "新柏氏液基细胞学检测"
+  },
+  {
+    "abbreviation": "MW",
+    "full_form": "Medical Writing",
+    "chinese": "医学写作"
+  },
+  {
+    "abbreviation": "CIOMS",
+    "full_form": "Council For International Organisations Of Medical Services",
+    "chinese": "国际医学科学组织委员会"
+  },
+  {
+    "abbreviation": "COI",
+    "full_form": "Coordinating Investigator",
+    "chinese": "协调研究者"
+  },
+  {
+    "abbreviation": "GCP",
+    "full_form": "Good Clinical Practices",
+    "chinese": "药物临床试验质量管理规范"
+  },
+  {
+    "abbreviation": "SEL",
+    "full_form": "Subject Enrollment Log",
+    "chinese": "受试者入选表"
+  },
+  {
+    "abbreviation": "LOI",
+    "full_form": "Letter Of Intent",
+    "chinese": "意向书"
+  },
+  {
+    "abbreviation": "CTR",
+    "full_form": "Clinical Trial Report",
+    "chinese": "临床试验报告"
+  },
+  {
+    "abbreviation": "NDA",
+    "full_form": "New Drug Application",
+    "chinese": "新药上市申请"
+  },
+  {
+    "abbreviation": "FAS",
+    "full_form": "Full Analysis Set",
+    "chinese": "完整分析集"
+  },
+  {
+    "abbreviation": "SUSAR",
+    "full_form": "Suspected Unexpected Serious Adverse Reaction",
+    "chinese": "可疑的非预期的严重不良反应"
+  },
+  {
+    "abbreviation": "CPR",
+    "full_form": "Cardiopulmonary Resuscitation",
+    "chinese": "心肺复苏术"
+  },
+  {
+    "abbreviation": "DCR",
+    "full_form": "Data Clarification Report See Dcf",
+    "chinese": "数据澄清报告"
+  },
+  {
+    "abbreviation": "RMP",
+    "full_form": "Risk Manager Plan",
+    "chinese": "风险管理计划"
+  },
+  {
+    "abbreviation": "PM",
+    "full_form": "Project Manager",
+    "chinese": "项目经理"
+  },
+  {
+    "abbreviation": "SAR",
+    "full_form": "Serious Adverse Reaction",
+    "chinese": "严重不良反应"
+  },
+  {
+    "abbreviation": "CHB",
+    "full_form": "Chronic Hepatitis B",
+    "chinese": "慢性乙型肝炎"
+  },
+  {
+    "abbreviation": "MO Review",
+    "full_form": "Medical Officer/Observer Review",
+    "chinese": "医学观察访视"
+  },
+  {
+    "abbreviation": "AL",
+    "full_form": "Administrative Leave",
+    "chinese": "行政休假"
+  },
+  {
+    "abbreviation": "ULN",
+    "full_form": "Upper Limit of Normal",
+    "chinese": "正常值上限"
+  },
+  {
+    "abbreviation": "ALT",
+    "full_form": "Alternate/Alternative",
+    "chinese": "= Back Up"
+  },
+  {
+    "abbreviation": "MUG",
+    "full_form": "Missed Upon Guard?",
+    "chinese": "未在计划时间内完成接种的受试者"
+  },
+  {
+    "abbreviation": "SDIL",
+    "full_form": "Source Document Identification Log",
+    "chinese": "源数据确认表"
+  },
+  {
+    "abbreviation": "DTA",
+    "full_form": "Data Transfer Agreement",
+    "chinese": "数据传输协议"
+  },
+  {
+    "abbreviation": "ET Visit",
+    "full_form": "Early Termination Visit",
+    "chinese": "提前终止随访"
+  },
+  {
+    "abbreviation": "Dx",
+    "full_form": "Diagnosis",
+    "chinese": "诊断"
+  },
+  {
+    "abbreviation": "ISR",
+    "full_form": "Injection Site Reaction",
+    "chinese": "接种部位反应"
+  },
+  {
+    "abbreviation": "OOR",
+    "full_form": "Out of Range",
+    "chinese": "超出范围"
+  },
+  {
+    "abbreviation": "HCC",
+    "full_form": "hepatocellular carcinoma",
+    "chinese": "肝细胞癌"
+  },
+  {
+    "abbreviation": "siRNA",
+    "full_form": "Small Interfering RNA",
+    "chinese": "小干扰RNA"
+  },
+  {
+    "abbreviation": "mAb",
+    "full_form": "Monoclonal Antibody",
+    "chinese": "单克隆抗体"
+  },
+  {
+    "abbreviation": "ADE",
+    "full_form": "Antibody Dependent Enhancement",
+    "chinese": "抗体依赖性增强"
+  },
+  {
+    "abbreviation": "VED",
+    "full_form": "Vaccine Enhanced Disease",
+    "chinese": "疫苗增强疾病"
+  },
+  {
+    "abbreviation": "QbD",
+    "full_form": "Quality by Design",
+    "chinese": "质量源于设计"
+  },
+  {
+    "abbreviation": "NCCN",
+    "full_form": "National Comprehensive Cancer Network",
+    "chinese": "国家综合癌症网络（美国）"
+  },
+  {
+    "abbreviation": "CSCO",
+    "full_form": "Chinese Society of Clinical Oncology",
+    "chinese": "中国临床肿瘤学会"
+  },
+  {
+    "abbreviation": "DBP",
+    "full_form": "Diastolic Blood Pressure",
+    "chinese": "舒张压"
+  },
+  {
+    "abbreviation": "SBP",
+    "full_form": "Systolic Blood Pressure",
+    "chinese": "收缩压"
+  },
+  {
+    "abbreviation": "BLA",
+    "full_form": "Biologics License Application",
+    "chinese": "生物制品许可申请（类似NDA）"
+  },
+  {
+    "abbreviation": "WRO",
+    "full_form": "Written Response Only",
+    "chinese": "仅书面回复"
+  },
+  {
+    "abbreviation": "MRCT",
+    "full_form": "Multi-regional Clinical Trial",
+    "chinese": "国际多中心临床试验"
+  },
+  {
+    "abbreviation": "CBER",
+    "full_form": "Center for Biologics Evaluation and Research",
+    "chinese": "生物制品评价与研究中心（FDA）"
+  },
+  {
+    "abbreviation": "CDER",
+    "full_form": "Center for Drug Evaluation and Research",
+    "chinese": "药品审评与研究中心"
+  },
+  {
+    "abbreviation": "IFN",
+    "full_form": "Interferon",
+    "chinese": "干扰素"
+  },
+  {
+    "abbreviation": "TNF",
+    "full_form": "Tumor Necrosis Factor",
+    "chinese": "肿瘤坏死因子"
+  },
+  {
+    "abbreviation": "NIP",
+    "full_form": "National Immunization Program",
+    "chinese": "国家免疫规划"
+  },
+  {
+    "abbreviation": "MAAE",
+    "full_form": "Medically Attended Adverse Event",
+    "chinese": "主动就医的不良事件"
+  },
+  {
+    "abbreviation": "RTSM",
+    "full_form": "Randomization and Trial Supply Management",
+    "chinese": "随机化和试验供应管理"
+  },
+  {
+    "abbreviation": "COV",
+    "full_form": "Close-out Visit",
+    "chinese": "中心关闭访视"
+  },
+  {
+    "abbreviation": "IIT",
+    "full_form": "Investigator-Initiated Trial",
+    "chinese": "研究者发起的临床研究"
+  },
+  {
+    "abbreviation": "IST",
+    "full_form": "Industry-Sponsored Trial",
+    "chinese": "药企发起的临床试验"
+  },
+  {
+    "abbreviation": "eCCI",
+    "full_form": "eCRF Completion Instructions",
+    "chinese": "eCRF填写说明"
+  },
+  {
+    "abbreviation": "CCG",
+    "full_form": "CRF Completion Guidelines",
+    "chinese": "CRF填写指南"
+  },
+  {
+    "abbreviation": "CMI",
+    "full_form": "Cell-Mediated Immunity",
+    "chinese": "细胞介导免疫"
+  }
+]

@@ -1,0 +1,33 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+
+# Android Studio & IntelliJ
+.idea/
+*.iws
+*.ids
+*.ipr
+
+# Build outputs & artifacts
+build/
+app/build/
+*.apk
+*.aab
+/captures
+.externalNativeBuild
+.cxx
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+hs_err_pid*
+replay_pid*
+
+# Python cache & reports
+__pycache__/
+*.py[cod]
+*_report.json
+report/
+

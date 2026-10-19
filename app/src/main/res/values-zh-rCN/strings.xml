@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">临床缩写</string>
+    <string name="search_hint">搜索缩写、全称或中文...</string>
+    <string name="action_copy_hint">点击复制</string>
+    <string name="copied_to_clipboard">已复制：%1$s</string>
+    <string name="empty_search_result">未找到匹配的临床缩略语</string>
+    <string name="item_count_format">共 %1$d 条缩略语</string>
+</resources>

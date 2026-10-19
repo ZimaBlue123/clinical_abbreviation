@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clinical Abbreviation</string>
+    <string name="search_hint">Search abbreviation, full form, or Chinese...</string>
+    <string name="action_copy_hint">Tap to copy</string>
+    <string name="copied_to_clipboard">Copied: %1$s</string>
+    <string name="empty_search_result">No matching abbreviations found</string>
+    <string name="item_count_format">Total: %1$d abbreviations</string>
+</resources>
